@@ -7,9 +7,9 @@
   display: flex;
   margin-top: 20px;
   margin-right: 35px;
-  margin-right: %;
   border-bottom-width: 1px;
   border-bottom-color: rgb(235, 233, 233);
+
 }
 .buy_layout {
   text-align: center;
@@ -27,7 +27,7 @@
 
 .img {
   height: 22px;
-  padding-left: 90px;
+  padding-left: 50px;
   padding-bottom: 4px;
   margin-left: 97px;
   padding-inline-end: 2%;
