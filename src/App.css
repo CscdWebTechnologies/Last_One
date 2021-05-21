@@ -1,0 +1,168 @@
+.App-link {
+  color: #61dafb;
+}
+
+.layout {
+  flex-direction: row;
+  display: flex;
+  margin-top: 20px;
+  margin-right: 35px;
+  margin-right: %;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(235, 233, 233);
+}
+.buy_layout {
+  text-align: center;
+  padding-left: 0%;
+  padding-inline-end: 10%;
+  margin-top: 0%;
+  margin-right: 45%;
+}
+.earn{
+  margin-left: 25%;
+  padding-left: 0%;
+  display: flex;
+}
+
+.earnin{
+  display: flex;
+  margin-left: 24%;
+}
+.earn_button{
+  flex-direction: row;
+  background-color: #1e5de4;
+  font-weight:500;
+  font-size: normal;  color: white;
+  margin-left: 30%;
+  width: 28%;
+  height: 35px;
+  margin-top: 20px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  cursor: pointer
+  
+}
+
+.view_more{
+  color: rgb(32, 90, 214);
+  font-size: small;
+  font-weight: bold;
+  font: medium;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+  .table {
+
+      border: 1-x solid black;
+
+}
+
+
+.img {
+  height: 22px;
+  padding-left: 90px;
+  padding-bottom: 4px;
+  margin-left: 97px;
+  padding-inline-end: 2%;
+ 
+}
+
+.box1 {
+  flex-direction: row;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-style: bold;
+  margin-left: 10%;
+  padding-right: 1%;
+  color: rgb(8, 8, 8);
+}
+
+.box2 {
+  justify-content: right;
+  padding-right: 1%;
+  padding-left: 1%;
+  font-size: small;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(14, 13, 13);
+}
+
+.box3 {
+  flex-direction: row;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  flex: 4;
+  padding-left: 1%;
+  padding-right: 2%;
+  margin-left: 1%;
+  color: rgb(12, 12, 12);
+}
+
+.box4 {
+  flex-direction: row;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  flex: 20;
+  padding-left: 2%;
+  margin-right: 2%;
+  color: rgb(2, 2, 2);
+}
+
+.box5 {
+  flex-direction: row;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  margin-right: 3%;
+  color: rgb(19, 17, 18);
+}
+
+.box6 {
+  flex-direction: row;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  padding-right: 10%;
+  padding-left: 1%;
+  color: rgb(19, 17, 18);
+
+}
+
+.box7 {
+  flex-direction: row;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:small;
+  color: rgb(7, 7, 8);
+  text-align: justify;
+  padding-right: 2%;
+  margin-right: 2px;
+}
+
+.button {
+  flex-direction: row;
+  background-color: #0052ff;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  margin-right: 7%;
+  width: 8%;
+  height: 32px;
+  border-radius: 3px;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+
+.body1 {
+
+  text-align: justify;
+  padding-left: 0%;
+  padding-inline-end: 3%;
+  margin-top: 0%;
+  margin-right: 1%;
+
+
+}
+
+.bod_img {
+  margin-top: 2%;
+  margin-left: 6%;
+  margin-bottom: 5%;
+  margin-right: 12%;
+  width: 200%;
+  height: 20%
+}

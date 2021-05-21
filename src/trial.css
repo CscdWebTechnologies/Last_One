@@ -1,0 +1,71 @@
+.Home {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .Home .image img {
+    width: 20vw;
+  }
+  
+  .Home h4 {
+    color: rgb(0, 60, 255);
+  }
+  
+  .Home h4:hover {
+    text-decoration: underline;
+    /* border-bottom: 3px solid rgb(0, 60, 255); */
+  }
+  
+  .Home .content h2 {
+    font-size: 60px;
+    margin-right: 300px;
+    line-height: 1.28;
+  }
+  
+  .Home .content p {
+    font-size: 20px;
+    padding-top: 18px;
+  }
+  
+  .Home button {
+    min-width: 10em;
+    min-height: 4em;
+    text-align: center;
+    font-size: 13pt;
+  }
+
+  
+  /* .Home .email {
+    z-index: 0;
+    flex: 1 1 0px;
+    width: 50%;
+    margin: 0px;
+    padding: 20px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    /* transition: all 0.15s ease 0s; */
+    /* background: none;
+    font-size: 18px;
+    font-weight: 100;
+    color: rgb(5, 15, 25);
+    min-height: 3.5em;
+    } */
+ 
+
+  .Home .email {
+    color: black;
+    font-size: 18px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    min-height: 4em;
+    min-width: 20em;
+    padding-left: 20px;
+  }
+
+  .Home .email:focus {
+    border: 1px solid blue;
+  }
