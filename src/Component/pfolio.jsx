@@ -41,7 +41,7 @@ const PortfolioItem = ({ icon, title, text }) => {
 				<img
 					src={icon}
 					className="transform w-full m-auto group-hover:scale-125 transition duration-500"
-					alt="img"
+					alt="imagee"
 				/>
 			</div>
 
