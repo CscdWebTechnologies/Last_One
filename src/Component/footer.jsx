@@ -10,7 +10,7 @@ const Footer = () => {
                 <div className='footer-wrapper'>
                     <div className='footer-link1'>
                         <div className='footer-inner-wrapper1'>
-                            <img className='footer-logo' src={coinb} alt="Coinbase footer logo"/>
+                            <img className='footer-logo' src={coinb} alt="Coinbase footer logo" />
                             <select className='select-language'>
                                 <option className='Language' value='de'>Deutsch</option>
                                 <option className='Language' selected value='en'>English</option>
@@ -58,9 +58,9 @@ const Footer = () => {
                                 <h2 className="footer_column_head">Learn</h2>
                                 <a href="coinbase.com" className="footer_page">Browse Crypto prices</a>
                                 <a href="coinbase.com" className="footer_page">Crypto basics</a>
-                                <a href="coinbase.com"className="footer_page">Tips &amp; tutorials</a>
+                                <a href="coinbase.com" className="footer_page">Tips &amp; tutorials</a>
                                 <a href="coinbase.com" className="footer_page">Market updates</a>
-                                <a href="coinbase.com"className="footer_page">What is Bitcoin?</a>
+                                <a href="coinbase.com" className="footer_page">What is Bitcoin?</a>
                                 <a href="coinbase.com" className="footer_page">What is crypto?</a>
                                 <a href="coinbase.com" className="footer_page">What is a blockchain?</a>
                                 <a href="coinbase.com" className="footer_page">How to set up a crypto wallet</a>
@@ -74,13 +74,13 @@ const Footer = () => {
                                 <a href="coinbase.com" className="footer_page">Buy &amp; sell</a>
                                 <a href="coinbase.com" className="footer_page">Earn free crypto</a>
                                 <a href="coinbase.com" className="footer_page">Wallet</a>
-                                <a href="coinbase.com"className="footer_page">Card</a>
+                                <a href="coinbase.com" className="footer_page">Card</a>
 
                             </div>
                             <div className='footer-column1_1'>
                                 <h2 className="footer_column_head">Businesses</h2>
                                 <a href="coinbase.com" className="footer_page">Prime</a>
-                                <a href="coinbase.com"className="footer_page">Custody</a>
+                                <a href="coinbase.com" className="footer_page">Custody</a>
                                 <a href="coinbase.com" className="footer_page">Asset Hub</a>
                                 <a href="coinbase.com" className="footer_page">Commerce</a>
 
@@ -101,12 +101,12 @@ const Footer = () => {
                         <div>
                             <div className='footer-column1_1'>
                                 <h2 className="footer_column_head">Support</h2>
-                                <a href="coinbase.com"className="footer_page">Help center</a>
+                                <a href="coinbase.com" className="footer_page">Help center</a>
                                 <a href="coinbase.com" className="footer_page">Contact us</a>
                                 <a href="coinbase.com" className="footer_page">Create account</a>
                                 <a href="coinbase.com" className="footer_page">ID verification</a>
                                 <a href="coinbase.com" className="footer_page">Account information</a>
-                                <a href="coinbase.com"className="footer_page">Payment methods</a>
+                                <a href="coinbase.com" className="footer_page">Payment methods</a>
                                 <a href="coinbase.com" className="footer_page">Account access</a>
                                 <a href="coinbase.com" className="footer_page">Status</a>
 

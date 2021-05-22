@@ -23,8 +23,9 @@ const portfolio = [
 		text:
 			"For added security, store your funds in a vault with time delayed withdrawals.",
 	},
-	
-	{	icon: phone_apps,
+
+	{
+		icon: phone_apps,
 		title: "Mobile apps",
 		text:
 			"Stay on top of the markets with the Coinbase app for Android or iOS.",
@@ -33,7 +34,7 @@ const portfolio = [
 
 const PortfolioItem = ({ icon, title, text }) => {
 	return (
-		<a href =" # " className="py-3 grid grid-cols-1 md:grid-cols-7 xl:grid-cols-9 xl:space-x-4 items-start rounded-lg group">
+		<a href=" # " className="py-3 grid grid-cols-1 md:grid-cols-7 xl:grid-cols-9 xl:space-x-4 items-start rounded-lg group">
 			<div
 				className="bg-white rounded-full shadow-xl p-5 col-span-2 md:col-span-1 xl:col-span-2 mx-auto md:mx-0"
 				style={{ width: "72px", height: "72px" }}

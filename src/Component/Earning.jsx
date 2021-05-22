@@ -5,15 +5,15 @@ import The_graph from "../Asset/The_graph.svg";
 import SKALE from "../Asset/SKALE.svg";
 
 const earnList = [
-	{ 
+	{
 		img: SKALE,
 		name: (
 			<p>
 				SKALE <br />
 			</p>
 		),
-		   code: "SKL"
-	
+		code: "SKL"
+
 	},
 	{
 		img: token,
@@ -40,7 +40,7 @@ const earnList = [
 		name: "Stella Lumens",
 		code: "XLM",
 	},
-	
+
 
 ];
 
@@ -48,7 +48,7 @@ const EarnListItem = ({ img, name, code }) => {
 	return (
 		<div className="px-2 md:px-5 py-3 transition duration-500 hover:shadow-lg rounded-md border-b lg:border-none border-gray-200">
 			<div className="flex">
-				<img src={img} alt='Earn list'className="w-10 h-10" />
+				<img src={img} alt='Earn list' className="w-10 h-10" />
 				<p className="my-auto ml-4 text-lg lg:text- font-medium col-span-2">
 					{name}
 				</p>

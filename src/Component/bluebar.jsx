@@ -28,7 +28,7 @@ const Bluebar = () => {
             <div className='banner-spacer2'>
                 <div className='div-banner-spacer2'>
                     <picture className='discover-picture'>
-                        <img src={discover} alt='Discover'/>
+                        <img src={discover} alt='Discover' />
 
                     </picture>
 

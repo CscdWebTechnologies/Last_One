@@ -21,7 +21,7 @@ const buy = [
     abbrv: "ETH",
     Price: "GHS 22,722.37",
     Change: "-8.99%",
-    
+
   },
   {
     id: 3,
@@ -47,7 +47,7 @@ const Buy = () => {
     borderRadius: "4px",
     backgroundColor: "rgb(5,177,105)",
     color: "white",
-    width:'70px',
+    width: '70px',
     fontWeight: 200,
   };
 

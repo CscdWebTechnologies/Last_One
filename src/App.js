@@ -14,20 +14,20 @@ import Stats from "./../src/Component/stats";
 function App() {
   return (
     <div>
-     <span>
-       <Header/>
-     </span>
-        <Firstbody/>
-        <Buy/>
-        <Earn/>
-        <Portfolio/>
-        <Cryptplatform/>
-        <Stats />
-        <Finance/>
-        <Bluebar/>
-        <Footer/>
-     </div>
-  
+      <span>
+        <Header />
+      </span>
+      <Firstbody />
+      <Buy />
+      <Earn />
+      <Portfolio />
+      <Cryptplatform />
+      <Stats />
+      <Finance />
+      <Bluebar />
+      <Footer />
+    </div>
+
   );
 }
 

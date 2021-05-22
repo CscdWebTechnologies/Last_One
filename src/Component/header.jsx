@@ -16,10 +16,8 @@ const Header = () => {
       <div className='box6'><h3 >Company</h3></div>
       <div className="box7"><h3>Sign in</h3></div>
       <button className="button">Get started</button>
-    
       <span> </span>
-      
-      </div>
+    </div>
   );
 };
 
