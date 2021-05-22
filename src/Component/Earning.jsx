@@ -1,7 +1,6 @@
 import token from "../Asset/token.svg";
 import stellar from "../Asset/stellar.svg";
 import The_graph from "../Asset/The_graph.svg";
-//import NuCypher from "../Asset/NuCypher.svg";
 import SKALE from "../Asset/SKALE.svg";
 
 const earnList = [
